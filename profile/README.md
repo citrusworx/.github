@@ -41,7 +41,7 @@ Stay in the loop with Beryl Labs:
 
 - **Twitter**: [@theberylcompany](https://x.com/theberylcompany)
 - **LinkedIn**: [Beryl Labs](#)
-- **TikTok**: [@theberylcompany](https://tiktok.com/theberylcompany)
+- **TikTok**: [@theberylcompany](https://tiktok.com/@theberylcompany)
 - **Newsletter**: Subscribe to our [monthly newsletter](#) for the latest updates, tips, and community highlights.
 
 We're excited to have you on this journey with us. Together, let's build a brighter and more innovative web development world!
