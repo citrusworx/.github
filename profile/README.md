@@ -6,6 +6,8 @@ Beryl Labs is a vibrant and innovative tech hub, dedicated to developing cutting
 
 ## What We Offer
 
+### Phase One
+
 1. **BerilliumCSS**: A lightweight, responsive CSS framework designed for speed and ease of use. It provides a flexible grid system, pre-designed components, and utility classes to kickstart your web design.
 
 2. **BerilliumUI**: An extensive UI kit that works seamlessly with BerilliumCSS. It includes a wide range of customizable components like buttons, modals, and navigation bars, all optimized for both performance and aesthetics.
