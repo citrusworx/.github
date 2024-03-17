@@ -1,8 +1,8 @@
 ---
 
-# Welcome to Beryl Labs! 🌟
+# Welcome to CitrusWorx! (Formerly known as Beryl Labs)🌟
 
-Beryl Labs is a vibrant and innovative tech hub, dedicated to developing cutting-edge web development tools and solutions. Our mission is to simplify and enhance the web development process, making it more accessible, efficient, and enjoyable for developers around the globe. 
+CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting-edge web development tools and solutions. Our mission is to simplify and enhance the web development process, making it more accessible, efficient, and enjoyable for developers around the globe. 
 
 ## What We Offer
 
