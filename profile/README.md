@@ -10,11 +10,9 @@ CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting
 
 1. **BerilliumCSS**: A lightweight, responsive CSS framework designed for speed and ease of use. It provides a flexible grid system, pre-designed components, and utility classes to kickstart your web design.
 
-2. **BerilliumUI**: An extensive UI kit that works seamlessly with BerilliumCSS. It includes a wide range of customizable components like buttons, modals, and navigation bars, all optimized for both performance and aesthetics.
+2. **BerilliumJS**: A powerful JavaScript library that complements our CSS framework. It's designed to enhance interactivity and dynamic content on your websites with minimal code.
 
-3. **BerilliumJS**: A powerful JavaScript library that complements our CSS framework. It's designed to enhance interactivity and dynamic content on your websites with minimal code.
-
-4. **Berillium CMS**: A user-friendly Content Management System that embodies simplicity and flexibility. Whether you're building a blog, an e-commerce site, or a portfolio, Berillium CMS adapts to your needs, offering an intuitive interface and robust features.
+3. **Berillium CMS**: A user-friendly Content Management System that embodies simplicity and flexibility. Whether you're building a blog, an e-commerce site, or a portfolio, Berillium CMS adapts to your needs, offering an intuitive interface and robust features.
 
 ## How You Can Contribute
 
@@ -34,8 +32,8 @@ CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting
 
 ## Fun Facts About Our Team
 
-- Breakfast is a serious affair at Beryl Labs! From smoothie bowls to traditional pancakes, our team's morning rituals are as diverse as our projects.
-- Our mascot, a beryl crystal, symbolizes our commitment to clarity, quality, and structure in everything we do.
+- Breakfast is a serious affair at Beryl Labs! From bowls to biscuits, our team's morning rituals are as diverse as our projects.
+- Our mascot, a Florida Key Lime, embodies our dedication to infusing every endeavor with a refreshing zest, ensuring unmatched excellence, and maintaining a vibrant and dynamic approach
 
 ## Let's Connect
 
