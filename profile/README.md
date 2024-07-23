@@ -8,11 +8,9 @@ CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting
 
 ### Phase One
 
-1. **BerilliumCSS**: A lightweight, responsive CSS framework designed for speed and ease of use. It provides a flexible grid system, pre-designed components, and utility classes to kickstart your web design.
+1. **Juice**: The complete styling and UI kit.
 
-2. **BerilliumJS**: A powerful JavaScript library that complements our CSS framework. It's designed to enhance interactivity and dynamic content on your websites with minimal code.
-
-3. **Berillium CMS**: A user-friendly Content Management System that embodies simplicity and flexibility. Whether you're building a blog, an e-commerce site, or a portfolio, Berillium CMS adapts to your needs, offering an intuitive interface and robust features.
+3. **Berillium **: The comprehensive app engine.
 
 ## How You Can Contribute
 
@@ -28,7 +26,7 @@ CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting
 
 - **Official Documentation**: Visit our [Beryl Labs Documentation Portal](#) for in-depth guides, API references, and tutorials.
 - **Community Forum**: Join our [Beryl Labs Community Forum](#) to discuss ideas, ask questions, and connect with other developers.
-- **GitHub Repositories**: Access our open-source projects on [GitHub](#) to explore the code, contribute, and stay updated with the latest releases.
+- **GitHub Repositories**: Access our open-source projects on [GitHub](https://githuub.com/citrusworx) to explore the code, contribute, and stay updated with the latest releases.
 
 ## Fun Facts About Our Team
 
@@ -37,12 +35,7 @@ CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting
 
 ## Let's Connect
 
-Stay in the loop with Beryl Labs:
-
-- **Twitter**: [@theberylcompany](https://x.com/theberylcompany)
-- **LinkedIn**: [Beryl Labs](#)
-- **TikTok**: [@theberylcompany](https://tiktok.com/@theberylcompany)
-- **Newsletter**: Subscribe to our [monthly newsletter](#) for the latest updates, tips, and community highlights.
+Stay in the loop with Citrusworx:
 
 We're excited to have you on this journey with us. Together, let's build a brighter and more innovative web development world!
 
