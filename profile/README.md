@@ -10,7 +10,7 @@ CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting
 
 1. **Juice**: The complete styling and UI kit.
 
-3. **Berillium**: The comprehensive app engine.
+3. **Kiwi Engine**: The comprehensive app engine.
 
 ## How You Can Contribute
 
