@@ -1,6 +1,6 @@
 ---
 
-# 🍊 Welcome to CitrusWorx! 🍊
+# 🍊🍋‍🟩🍋 Welcome to CitrusWorx! 🍋🍋‍🟩🍊
 
 CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting-edge web development tools and solutions. Our mission is to simplify and enhance the web development process, making it more accessible, efficient, and enjoyable for developers around the globe. 
 
