@@ -1,6 +1,6 @@
 ---
 
-# Welcome to CitrusWorx! (Formerly known as Beryl Labs)🌟
+# 🍊 Welcome to CitrusWorx! 🍊
 
 CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting-edge web development tools and solutions. Our mission is to simplify and enhance the web development process, making it more accessible, efficient, and enjoyable for developers around the globe. 
 
@@ -21,17 +21,6 @@ CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting
 📚 **Documentation and Tutorials**: Assist in creating comprehensive guides, tutorials, or blog posts. Whether you're a seasoned writer or a first-timer, your contributions make our tools more accessible to the community.
 
 💡 **Ideas and Feature Requests**: Got an idea for a new feature or an enhancement? We're all ears! Your innovative suggestions are what keep Beryl Labs at the forefront of web development.
-
-## Resources and Documentation
-
-- **Official Documentation**: Visit our [Beryl Labs Documentation Portal](#) for in-depth guides, API references, and tutorials.
-- **Community Forum**: Join our [Beryl Labs Community Forum](#) to discuss ideas, ask questions, and connect with other developers.
-- **GitHub Repositories**: Access our open-source projects on [GitHub](https://githuub.com/citrusworx) to explore the code, contribute, and stay updated with the latest releases.
-
-## Fun Facts About Our Team
-
-- Breakfast is a serious affair at Beryl Labs! From bowls to biscuits, our team's morning rituals are as diverse as our projects.
-- Our mascot, a Florida Key Lime, embodies our dedication to infusing every endeavor with a refreshing zest, ensuring unmatched excellence, and maintaining a vibrant and dynamic approach
 
 ## Let's Connect
 
