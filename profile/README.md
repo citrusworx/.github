@@ -10,7 +10,12 @@ CitrusWorx is a vibrant and innovative tech hub, dedicated to developing cutting
 
 1. **Juice**: The complete styling and UI kit.
 
-3. **Kiwi Engine**: The comprehensive app engine.
+3. **Kiwi Engine**: The comprehensive app engine that contains modular libraries that you can use in your own projects.
+
+#### Kiwi Engine Modules
+
+1. **Nectarine**: The complete Source of Truth library for APIs, databases, and schemas.
+2. **GrapeVine**: The IaC library that includes Bash Scripts, Dockerfiles, Docker Compose configs, and CloudFormation templates.
 
 ## How You Can Contribute
 
@@ -30,6 +35,6 @@ We're excited to have you on this journey with us. Together, let's build a brigh
 
 ---
 
-[Markdown Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) | [Beryl Labs](#) | [Contribute](#)
+[Markdown Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ---
